@@ -49,3 +49,6 @@ Shubin123/azahar_web
 Sfj3861/ROM2APK
 BBBannon/Shoalcade
 andrefeeelipe/Cartucho
+simplysanatori/AzaharFrame
+WINDROID-EMU/RECOMP-ZELDA-3DS-ANDROID
+chanadinh/pokemon-x-decomp
