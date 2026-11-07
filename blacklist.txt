@@ -41,3 +41,11 @@ mikrobotboot-ship-it/QUANTUM-3DS
 RegiRex/DroiDDS
 Zinogre247-crypto/Citra-mmj-optimizado
 beiklive/GBAStation_melonDS
+klark231/citra-rasp-legacy
+Citrastudio/citrastudio.github.io
+MariuszOnik/minisharp
+Javiju555/IE-repack
+Shubin123/azahar_web
+Sfj3861/ROM2APK
+BBBannon/Shoalcade
+andrefeeelipe/Cartucho
