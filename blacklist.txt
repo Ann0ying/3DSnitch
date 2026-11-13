@@ -89,3 +89,5 @@ Brandonnn3/EmuDen
 dmikey/cara
 Luizfe181/RetroGameStation-OS
 GemMaxweLlX/SOSTOTRUS3DS
+GemMaxweLlX/Rf4rusus3ds
+GemMaxweLlX/*
